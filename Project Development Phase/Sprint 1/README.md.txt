@@ -8,4 +8,4 @@
 - [x] Dashboard - 100%
 
 ## Hosted on Netlify
-[child-safety.netlify.app](https://child-safety.netlify.app)
+https://app.netlify.com/user/settings#profile
